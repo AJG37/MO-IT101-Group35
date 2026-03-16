@@ -226,6 +226,4 @@ public class MotorPH {
         if (cell == null) return "";
         return FORMATTER.formatCellValue(cell).trim();
     }
-
-    // DO NO TOUCH THIS PLEASE I BEG CAUSE I DONT KNOW HOW HALF OF IT WORKS
 }
