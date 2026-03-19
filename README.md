@@ -10,6 +10,5 @@ Program details
 To see the salary you use the "print" command followed by the month like "print june". The program then scans the attendance logs and uses an 8 AM to 5 PM while automatically taking out 1 hour for lunch. It does all the deductions for SSS, PhilHealth, Pag-IBIG, and Tax automatically so you get a perfect payslip right in your terminal.
 
 
-
-Project Plan Link:
-https://l.messenger.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F17wWWdFcO5GJYx8DjycnCBWMCPgdNgy-l8Me_PBc4lyE%2Fedit%3Fusp%3Ddrivesdk&h=AT6_rEgnTAx4D8kaEY8zwyU_4DIRTusfRX_Ex0Vnhc609Og7gXPGSXsY_ODGCOuFXbwm4vULqeKaF7GjO54ns89OflgkOBA5UkPjvQJuVSH9SgoDOs6W5_mY2Vyhx8w
+Project Plan link:
+https://docs.google.com/spreadsheets/d/17wWWdFcO5GJYx8DjycnCBWMCPgdNgy-l8Me_PBc4lyE/edit?usp=drivesdk&fbclid=IwY2xjawQoRcpleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAEwAAEe4en84SuczlgG81hYJWm9RsLF5W-lfAQcNr5qCrZm2cOMDClwUA3LBX3TMyY_aem_SuL_SPYSPpT1L4WoWFyDlg
