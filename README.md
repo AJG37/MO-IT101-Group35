@@ -5,7 +5,7 @@ Team Details
 - Porject Assistant -Sambrano, Rommel: He helped with the planning and did some of the coding. He also helped keep the group motivated and kept things maintained.
 
 Program details
-- A Java program that makes calculating salaries fast by reading data directly from an Excel file. When you run the app you just type in an "Employee ID" to find their profile including their SSS, PhilHealth, and TIN numbers.
+A Java program that makes calculating salaries fast by reading data directly from an Excel file. When you run the app you just type in an "Employee ID" to find their profile including their SSS, PhilHealth, and TIN numbers.
 
 To see the salary you use the "print" command followed by the month like "print june". The program then scans the attendance logs and uses an 8 AM to 5 PM while automatically taking out 1 hour for lunch. It does all the deductions for SSS, PhilHealth, Pag-IBIG, and Tax automatically so you get a perfect payslip right in your terminal.
 
