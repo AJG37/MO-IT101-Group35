@@ -2,7 +2,7 @@ Team Details
 - Project Coordinator - Agullana, Jonah Junko: She focused on brainstorming and the project plan. She helped out with bits of code while learning and made sure the group stayed on track and kept moving.
 - Lead Programmer - Geronimo, Albert Joaquin: He did the heavy lifting, coding about 80% of the program. He also took the time to teach the rest of the team how the code actually works.
 - Technical Support - Robles, Rafael Miguel: He worked closely with Albert on the coding functions and figured out how the system pulls data. He also helped get the project plan together.
-- Porject Assistant -Sambrano, Rommel: He helped with the planning and did some of the coding. He also helped keep the group motivated and kept things maintained.
+- Project Assistant -Sambrano, Rommel: He helped with the planning and did some of the coding. He also helped keep the group motivated and kept things maintained.
 
 Program details
 A Java program that makes calculating salaries fast by reading data directly from an Excel file. When you run the app you just type in an "Employee ID" to find their profile including their SSS, PhilHealth, and TIN numbers.
